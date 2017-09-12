@@ -1,5 +1,5 @@
 package Basic
-
+//Range example
 object Range {
   def main(args:Array[String]){
     var r1 = 1 to 10

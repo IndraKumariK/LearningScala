@@ -10,6 +10,6 @@ object Break {
         else
           println(i)
       }
-    } /// break reach then come out of this block
+    } // break reach then come out of this block
   }
 }
